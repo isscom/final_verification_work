@@ -1,0 +1,15 @@
+C:\Users\s.ivanov\Downloads\Geek_Brains\final_verification_work\programm\bin\Debug\net7.0\programm.exe
+C:\Users\s.ivanov\Downloads\Geek_Brains\final_verification_work\programm\bin\Debug\net7.0\programm.deps.json
+C:\Users\s.ivanov\Downloads\Geek_Brains\final_verification_work\programm\bin\Debug\net7.0\programm.runtimeconfig.json
+C:\Users\s.ivanov\Downloads\Geek_Brains\final_verification_work\programm\bin\Debug\net7.0\programm.dll
+C:\Users\s.ivanov\Downloads\Geek_Brains\final_verification_work\programm\bin\Debug\net7.0\programm.pdb
+C:\Users\s.ivanov\Downloads\Geek_Brains\final_verification_work\programm\obj\Debug\net7.0\programm.csproj.AssemblyReference.cache
+C:\Users\s.ivanov\Downloads\Geek_Brains\final_verification_work\programm\obj\Debug\net7.0\programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.ivanov\Downloads\Geek_Brains\final_verification_work\programm\obj\Debug\net7.0\programm.AssemblyInfoInputs.cache
+C:\Users\s.ivanov\Downloads\Geek_Brains\final_verification_work\programm\obj\Debug\net7.0\programm.AssemblyInfo.cs
+C:\Users\s.ivanov\Downloads\Geek_Brains\final_verification_work\programm\obj\Debug\net7.0\programm.csproj.CoreCompileInputs.cache
+C:\Users\s.ivanov\Downloads\Geek_Brains\final_verification_work\programm\obj\Debug\net7.0\programm.dll
+C:\Users\s.ivanov\Downloads\Geek_Brains\final_verification_work\programm\obj\Debug\net7.0\refint\programm.dll
+C:\Users\s.ivanov\Downloads\Geek_Brains\final_verification_work\programm\obj\Debug\net7.0\programm.pdb
+C:\Users\s.ivanov\Downloads\Geek_Brains\final_verification_work\programm\obj\Debug\net7.0\programm.genruntimeconfig.cache
+C:\Users\s.ivanov\Downloads\Geek_Brains\final_verification_work\programm\obj\Debug\net7.0\ref\programm.dll
